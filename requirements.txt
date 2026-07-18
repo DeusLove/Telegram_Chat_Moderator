@@ -1,0 +1,4 @@
+python-telegram-bot==20.7
+transformers==4.36.0
+torch>=2.0.0
+datasets>=2.14.0
